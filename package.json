@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inna12018/project-x"
+  },
   "author": "Drabchuk Inna",
   "license": "ISC",
   "devDependencies": {
